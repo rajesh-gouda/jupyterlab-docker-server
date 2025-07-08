@@ -1,0 +1,6 @@
+workspace/*
+!workspace/
+*.log
+*.ipynb
+*.pyc
+__pycache__/
