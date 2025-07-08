@@ -38,7 +38,7 @@ aws ecr get-login-password --region us-east-1 | docker login --username AWS --pa
 ## 🛠️ Build & Run (Windows)
 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/jupyterlab-docker-server.git
+git clone https://github.com/rajesh-gouda/jupyterlab-docker-server.git
 cd jupyterlab-docker-server
 ```
 2. Build the Docker image
