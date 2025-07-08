@@ -1,1 +1,1 @@
-Here will your files and folders
+This folder will contain all your Jupyter notebooks and related files. Any work done inside the container will be saved here and persist on your local machine.
