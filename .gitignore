@@ -1,5 +1,8 @@
 workspace/*
 !workspace/
+!workspace/.gitkeep
+workspace/.ipynb_checkpoints/
+!workspace/README.md
 *.log
 *.ipynb
 *.pyc
